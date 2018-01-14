@@ -1,5 +1,6 @@
 
-## The makeCacheMatrix function creates a matrix,that contains a function that sets and gets the value of the matrix and the inverse of the matrix
+## The makeCacheMatrix function creates a matrix,that contains a function that sets and gets the value of the matrix 
+##and the inverse of the matrix
 
 makeCacheMatrix <- function(x = matrix()) 
 {
